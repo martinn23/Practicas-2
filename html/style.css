@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+     background-image: url(./imagenes/waterfall-5722620_1920.jpg);
+     background-size: 100px 100 px;
+     background-attachment: fixed;
+}
+
+.titulo {
+    color: brown;
+}
